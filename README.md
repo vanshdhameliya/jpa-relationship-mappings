@@ -1,1 +1,1 @@
-JPA Mapping
+JPA Mapping with all 4
